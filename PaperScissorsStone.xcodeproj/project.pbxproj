@@ -12,6 +12,7 @@
 		08B15F2A1F4E3E1300659AE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08B15F281F4E3E1300659AE7 /* Main.storyboard */; };
 		08B15F2C1F4E3E1300659AE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08B15F2B1F4E3E1300659AE7 /* Assets.xcassets */; };
 		08B15F2F1F4E3E1300659AE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08B15F2D1F4E3E1300659AE7 /* LaunchScreen.storyboard */; };
+		08B15F371F4E42C600659AE7 /* PaperScissorsStoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B15F361F4E42C600659AE7 /* PaperScissorsStoneViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		08B15F2B1F4E3E1300659AE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08B15F2E1F4E3E1300659AE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08B15F301F4E3E1300659AE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08B15F361F4E42C600659AE7 /* PaperScissorsStoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaperScissorsStoneViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				08B15F241F4E3E1300659AE7 /* AppDelegate.swift */,
 				08B15F261F4E3E1300659AE7 /* ViewController.swift */,
 				08B15F281F4E3E1300659AE7 /* Main.storyboard */,
+				08B15F361F4E42C600659AE7 /* PaperScissorsStoneViewController.swift */,
 				08B15F2B1F4E3E1300659AE7 /* Assets.xcassets */,
 				08B15F2D1F4E3E1300659AE7 /* LaunchScreen.storyboard */,
 				08B15F301F4E3E1300659AE7 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08B15F271F4E3E1300659AE7 /* ViewController.swift in Sources */,
+				08B15F371F4E42C600659AE7 /* PaperScissorsStoneViewController.swift in Sources */,
 				08B15F251F4E3E1300659AE7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
